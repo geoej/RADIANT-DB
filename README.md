@@ -1,16 +1,9 @@
-# KST_GKB_source
+# Global Knowledge Base for Underutilised Crops
 
 <a href="https://zenodo.org/badge/latestdoi/252083676"><img src="https://zenodo.org/badge/252083676.svg" alt="DOI"></a>
 
-
+Update: April 2020
 The main GKBS SQL source and UI for the new DB titled cropbase_v5. The database is currently being updated by the interns, therefore tables and fields might change during this time. The final UI will be uploaded once every data migration and upload has been completed.
-
-
-
-Global Knowledge Base for 
-Underutilised Crops
-Delivering quality data to support agricultural diversification
-By Knowledge Systems Theme, Crops For the Future Research Centre
 
 Overview
 
@@ -27,7 +20,7 @@ Data of over 600 crops were used to build a location-based App that classifies p
 
 
 
-<img src="https://www.cropbase.info/owncloud/index.php/s/WYkVJ0CNLfCKuJZ/download" alt="Smiley face" height="550" width="550">
+<img src="https://www.cropbase.info/owncloud/index.php/s/WYkVJ0CNLfCKuJZ/download" alt="Smiley face" height="550" width="650">
 
 Current database content
 
@@ -91,7 +84,7 @@ In late September 2019, a new database structure design was proposed to solve th
  
 
 
-<img src="https://www.cropbase.info/owncloud/index.php/s/dBI3fuDqUJoM7N9/download" alt="Smiley face" height="350" width="550">
+<img src="https://www.cropbase.info/owncloud/index.php/s/dBI3fuDqUJoM7N9/download" alt="Smiley face" height="400" width="600">
 
 
 Steps ahead

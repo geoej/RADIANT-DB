@@ -103,52 +103,55 @@ The new database design is expected to be more comprehensive with more intuitive
 
 KST core members:	
 
-Sayed Azam Ali,Chief Executive Officer; 
+Sayed Azam Ali,Chief Executive Officer 
 
-Ebrahim Jahanshiri,Theme Leader; 
+Ebrahim Jahanshiri,Theme Leader 
 
-Ayman Salama,Senior Application Architect; 
+Ayman Salama,Senior Application Architect 
 
-Nur Marahaini Mohd Nizar,Executive; 
+Nur Marahaini Mohd Nizar,Executive 
+
+Anil Shekar Tharmandram,Software Developer
 
 
 KST conributors:	
  
-Anil Shekar Tharmandram,Software Developer;
 
-Anton Welling,Intern; 
+Anton Welling,Intern 
 
-Asha Karunaratne,Co-Investigator; 
+Asha Karunaratne,Co-Investigator 
 
-Eranga Madushan Wimalasiri,Crop Modeller; 
+Eranga Madushan Wimalasiri,Crop Modeller 
 
-Goh Ee Von,Supporting Researcher; 
+Goh Ee Von,Supporting Researcher 
 
-Husna Zolkepli,Intern; 
+Husna Zolkepli,Intern 
 
-Maizatul Vanisha Masril,Intern; 
+Maizatul Vanisha Masril,Intern 
 
-Malathi Loganathan,Software Developer; 
+Malathi Loganathan,Software Developer 
 
-Mithundi Liyanagamage,Intern; 
+Mithundi Liyanagamage,Intern 
 
-Muhd Syahiran Ahmad Shahar,Intern; 
+Muhd Syahiran Ahmad Shahar,Intern 
 
-Murshid Omer,Intern; 
+Murshid Omer,Intern 
 
-Nur Farhanah Binti Ishak,Intern; 
+Nur Farhanah Binti Ishak,Intern 
 
-Nur Irdina Muhammad Abir,Intern; 
+Nur Irdina Muhammad Abir,Intern 
 
-Nur Sakinah Ismail,Intern; 
+Nur Sakinah Ismail,Intern 
 
-Nurul Jannah Abdullah,Intern; 
+Nurul Jannah Abdullah,Intern 
 
-Nurul Nadia Ya'akob,Intern; 
+Nurul Nadia Ya'akob,Intern 
 
-Shahril Amri,Intern; 
+Shahril Amri,Intern 
 
-Siti Nur Jelita Sabran,Intern; 
+Joshua Wooedring, Intern
+
+Siti Nur Jelita Sabran,Intern 
 
 Siti Sarah Mohd Sinin,Executive; 
 

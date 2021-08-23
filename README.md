@@ -2,7 +2,9 @@
 
 <a href="https://zenodo.org/badge/latestdoi/252083676"><img src="https://zenodo.org/badge/252083676.svg" alt="DOI"></a>
 
-
+License (for files):
+ GNU Affero General Public License v3.0
+ 
 The main GKBS SQL source and UI for the new DB titled cropbase_v5. The database is currently being updated by the interns, therefore tables and fields might change during this time. The final UI will be uploaded once every data migration and upload has been completed.
 
 
@@ -84,14 +86,11 @@ Data are collected and recorded manually into the database by data collectors. D
 
 # Data access 
 
-The database is designed following FAIR principals that will make data Findable through metadata publishing, Accessible through an online interface available at www.selectcrop.org, Interoperable through a robust structure that links data across the value chain and Reusable by scientists and programmers through an Open online Application Programming Interface (API). 
+The database is designed following FAIR principals that will make data Findable through metadata publishing, Accessible through an online interface available at www.cropbase.co.uk, Interoperable through a robust structure that links data across the value chain and Reusable by scientists and programmers through an Open online Application Programming Interface (API). 
  
 Development of new database structure
 In late September 2019, a new database structure design was proposed to solve the limitations of the current database to allow storage of more information due to missing/incomplete tables and ease the navigation in the database to open up the accessibility to the public.
- 
 
-
-<img src="https://www.cropbase.info/owncloud/index.php/s/dBI3fuDqUJoM7N9/download" alt="Smiley face" height="350" width="550">
 
 
 # Steps ahead
